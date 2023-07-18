@@ -1,0 +1,33 @@
+.done {
+  text-decoration: line-through;
+}
+
+body{
+  text-align: center;
+  background: linear-gradient(to right, rgb(252, 161, 232), rgb(13, 143, 160));
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+}
+h1:hover {
+  color: rgb(114, 204, 137);
+}
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0px 0px 0px ;
+}
+li{
+  padding: 10px 0px 10px 0px;
+  border: thin solid black;
+}
+
+#addtask{
+  border-radius: 12px;
+}

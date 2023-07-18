@@ -1,0 +1,1 @@
+Currently, I have kept this project as simple as I can. There is very less HTML and CSS in the project right now and I am planning to improve the design of the page after I add more features to the todo-list. 
